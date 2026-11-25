@@ -23,7 +23,9 @@ CLAUSE = (
     "clone is polite and does not unionize."
 )
 
-OUTPUT_PATH = "/output/entry.txt"
+OUTPUT_PATH = os.path.join(
+    os.environ.get("MAKEFUN_OUTPUT_DIR", "/output"), "entry.txt"
+)
 
 # The competition requires 1 to 200 characters, not whitespace-only.
 MAX_CHARS = 200
