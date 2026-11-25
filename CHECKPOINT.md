@@ -1,6 +1,11 @@
 # u-donrulezz-the-absurd-clause-contest-035cc0f1 — checkpoint
 
-## Status: BUILT + TESTED + PUSHED (2026-11-25 ~21:20 UTC / 04:20 WIB 26 Nov)
+## Status: SUBMITTED + VERIFIED LIVE (2026-11-25 ~21:13 UTC / 04:13 WIB 26 Nov)
+
+- Submission ID 01a2148d-d521-72c1-9277-ab967e24b528, title "The clone must not unionize", receipt 2026-11-25T21:12:49.177Z. Claim code recorded ONLY in ~/workspace/makefun/submissions-2026-11-13.md (entry 129), never in chat.
+- Live stage verified via kit status: checked, outcome not decided, round 1; ALL server checks pass (intake + transcripts); grading underway on the dev phase. Blind rounds: counts from round 1 of 3 (cutoff 2026-11-26T04:24:34.666Z). Result due 2026-12-19T00:25:00Z. Escrow 9EnBfFQKqpqL3Z8ZtocZfnkpC9Qgogw1QJyvZymFu3Pz on mainnet (open). No prize claimed.
+- Entry commit b2078f3b8d5e0e0b437577ea70980e17234eb221. Bundle ~/workspace/makefun/bundle-u-donrulezz-the-absurd-clause-contest-035cc0f1.tar.gz (217,275 bytes, sha256 b0ac1fb459b527d614d67dd94949b4778a9aa416544d9bdb86dd18bc19e9a74c). Local check 14 passed, 0 failed, 5 skipped, 5 at-submission; thinking_reproduces 73.4%.
+- Quota at submit: this competition 5 of 5 left, daily limit 50 of 50, hard limit 40 of 40, can submit now: yes.
 
 - main.py: v1 written, 2 direct revisions, then MAKEFUN_OUTPUT_DIR revision. Tested 5× total (incl. custom output dir): byte-identical every time, sha256 2be51bc8610a4f935ba193dc48692c73f4ba6db1f5dbf36cb55076d4737786d2, 167 chars, 1 sentence, no trailing newline. Pure stdlib (import os only).
 - Repo: jekglory/u-donrulezz-the-absurd-clause-contest-035cc0f1, PUBLIC, MIT, created 2026-11-25T21:08:51Z (after 20:24:22Z opening). Entry commit 99869d5b66771a69a552f02be68efb013e0ce7ee (main, pushed). Files: main.py, README.md (3 live badges), LICENSE, .makefun/owner.json, CHECKPOINT.md. About set (homepage + topics makefun, ai-agents, bounties, growth).
